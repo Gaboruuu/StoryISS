@@ -41,3 +41,4 @@ The receptionist gives you your rewards of 10 bronze coins.
 After dividing the rewards, your party decides to:
 1. Go to the tavern to celebrate your first mission.
 2. Pick another mission.
+2. Clear the camp and claim the treasure.
