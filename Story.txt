@@ -44,10 +44,6 @@ Now you are broke.
 1.Go back to collect herbs you earn new money.
 2.Rob the casino
 
-2. Collect herbs
-- reward: 5 bronze coins
-- difficulty: Rank D
-- location: Fairy Forest
 
 2. You picked the herb collecting.
 
@@ -57,4 +53,11 @@ Plant type. Some mean green killing machine.
 What will you do:
 1: Have Razvan tank the attack(it will hurt him)
 2: Make Doru try to cut him(we are broke, his sword is made out of wood)
-Your party chooses "Defeat 10 Slimes".
+
+Razvan decides to tank the ambush hit.
+He is hurt, but it is not fatal.
+After that, from the shadows, Gaboruu uses his skills to ambush the monster alongside Doru and cut it down.
+After defeating the monster, you check Razvan's condition.
+Your party discusses what to do now.
+1. Heal Razvan with Mihai's heal spell.
+2. Go back to the infirmary to take good care of Razvan.
