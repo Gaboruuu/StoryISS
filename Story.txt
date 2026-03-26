@@ -21,3 +21,12 @@ Your options are:
 - reward: 5 bronze coins
 - difficulty: Rank D
 - location: Fairy Forest
+
+2. You picked the herb collecting.
+
+You go and collect herbs(it's not that deep)
+As you do, a monster comes out of the ground and attacks your party.
+Plant type. Some mean green killing machine.
+What will you do:
+1: Have Razvan tank the attack(it will hurt him)
+2: Make Doru try to cut him(we are broke, his sword is made out of wood)
