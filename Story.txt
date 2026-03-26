@@ -1,1 +1,23 @@
 This story has been written by Doru, Gaboruu, Mihai and Razvan of team Ubb Frat Leaders.
+
+You and your friends decide to become adventurers, so you go to the adventurers guild to register as a party.
+Your party is called Ubb Frat Leaders, and is formed from 4 members.
+Each member has a different class.
+- Razvan is a tank.
+- Doru is a swordsman.
+- Mihai is a mage.
+- Gaboruu is a spy.
+
+You decide to start your story of your first mission.
+Your party has Rank C.
+You head to the quest board to choose a mission.
+Your options are:
+1. Defeat 10 Slimes.
+- reward: 10 bronze coins
+- difficulty: Rank C
+- location: Slime Valley
+
+2. Collect herbs
+- reward: 5 bronze coins
+- difficulty: Rank D
+- location: Fairy Forest
