@@ -21,3 +21,16 @@ Your options are:
 - reward: 5 bronze coins
 - difficulty: Rank D
 - location: Fairy Forest
+
+Your party chooses "Defeat 10 Slimes".
+
+You and your party head to the Slime Valley.
+After 20 minutes, you arrive at the target location.
+You and your party divide into 2 teams to kill slimes faster: Gaboruu and Doru, Mihai and Razvan.
+After a while, you manage to defeat the 10 slimes and collect the slime essence to prove your completion.
+While collecting the essence, Razvan spots a bunch of monsters in the distance.
+Gaboruu, the spy, uses his stealth skill to scout around the area.
+After coming back, he tells his team that 10 goblins are camping in the nearby area, protecting a treasure.
+After a while, you decide to vote on your next action:
+1. Retreat and claim the prize
+2. Clear the camp and claim the treasure.
