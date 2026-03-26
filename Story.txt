@@ -44,10 +44,6 @@ Now you are broke.
 1.Go back to collect herbs you earn new money.
 2.Rob the casino
 
-2. Collect herbs
-- reward: 5 bronze coins
-- difficulty: Rank D
-- location: Fairy Forest
 
 2. You picked the herb collecting.
 
@@ -57,4 +53,10 @@ Plant type. Some mean green killing machine.
 What will you do:
 1: Have Razvan tank the attack(it will hurt him)
 2: Make Doru try to cut him(we are broke, his sword is made out of wood)
-Your party chooses "Defeat 10 Slimes".
+
+2: Doru swings his sword at the monster. It gets stuck inside. But it holds the creature at bay.
+Doru and the creature struggle for control what will you do:
+1. Make Mihai cast Fire Ball (it might hit Doru)
+2. Make everyone back Doru up. Brute Force
+
+
