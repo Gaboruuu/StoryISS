@@ -34,3 +34,11 @@ After coming back, he tells his team that 10 goblins are camping in the nearby a
 After a while, you decide to vote on your next action:
 1. Retreat and claim the prize
 2. Clear the camp and claim the treasure.
+
+After a series of voting, your party decides to "Retreat and claim the prize".
+After leaving the valley, you head straight to the Adventurers Guild to claim your prize.
+The receptionist gives you your rewards of 10 bronze coins.
+After dividing the rewards, your party decides to:
+1. Go to the tavern to celebrate your first mission.
+2. Pick another mission.
+2. Clear the camp and claim the treasure.
