@@ -17,6 +17,33 @@ Your options are:
 - difficulty: Rank C
 - location: Slime Valley
 
+
+
+You and your party head to the Slime Valley.
+After 20 minutes, you arrive at the target location.
+You and your party divide into 2 teams to kill slimes faster: Gaboruu and Doru, Mihai and Razvan.
+After a while, you manage to defeat the 10 slimes and collect the slime essence to prove your completion.
+While collecting the essence, Razvan spots a bunch of monsters in the distance.
+Gaboruu, the spy, uses his stealth skill to scout around the area.
+After coming back, he tells his team that 10 goblins are camping in the nearby area, protecting a treasure.
+After a while, you decide to vote on your next action:
+1. Retreat and claim the prize
+2. Clear the camp and claim the treasure.
+
+You choose clear the camp and claim the treasure.
+You decide to fight the goblins.
+Razvan defeat all goblins with one hand because he is the tank.
+We collect the trasure. The trasure is gold coins.
+1.You decide to go to casino with all the coins.
+2.You deeper in the forst to find new treasures
+
+Your RRUVE at the casino.
+After a long night in the casino all gold coins are broke.
+Now you are broke.
+
+1.Go back to collect herbs you earn new money.
+2.Rob the casino
+
 2. Collect herbs
 - reward: 5 bronze coins
 - difficulty: Rank D
@@ -30,3 +57,4 @@ Plant type. Some mean green killing machine.
 What will you do:
 1: Have Razvan tank the attack(it will hurt him)
 2: Make Doru try to cut him(we are broke, his sword is made out of wood)
+Your party chooses "Defeat 10 Slimes".
